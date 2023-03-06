@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ropnop/gokrb5/messages"
-	"github.com/ropnop/gokrb5/types"
+	"github.com/shoeper/gokrb5/messages"
+	"github.com/shoeper/gokrb5/types"
 )
 
 const (

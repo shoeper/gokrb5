@@ -6,14 +6,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ropnop/gokrb5/credentials"
-	"github.com/ropnop/gokrb5/iana"
-	"github.com/ropnop/gokrb5/iana/etypeID"
-	"github.com/ropnop/gokrb5/iana/msgtype"
-	"github.com/ropnop/gokrb5/iana/nametype"
-	"github.com/ropnop/gokrb5/iana/patype"
-	"github.com/ropnop/gokrb5/keytab"
-	"github.com/ropnop/gokrb5/test/testdata"
+	"github.com/shoeper/gokrb5/credentials"
+	"github.com/shoeper/gokrb5/iana"
+	"github.com/shoeper/gokrb5/iana/etypeID"
+	"github.com/shoeper/gokrb5/iana/msgtype"
+	"github.com/shoeper/gokrb5/iana/nametype"
+	"github.com/shoeper/gokrb5/iana/patype"
+	"github.com/shoeper/gokrb5/keytab"
+	"github.com/shoeper/gokrb5/test/testdata"
 	"github.com/stretchr/testify/assert"
 )
 

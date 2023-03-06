@@ -1,11 +1,11 @@
 package client
 
 import (
-	"github.com/ropnop/gokrb5/v8/iana/flags"
-	"github.com/ropnop/gokrb5/v8/iana/nametype"
-	"github.com/ropnop/gokrb5/v8/krberror"
-	"github.com/ropnop/gokrb5/v8/messages"
-	"github.com/ropnop/gokrb5/v8/types"
+	"github.com/shoeper/gokrb5/v8/iana/flags"
+	"github.com/shoeper/gokrb5/v8/iana/nametype"
+	"github.com/shoeper/gokrb5/v8/krberror"
+	"github.com/shoeper/gokrb5/v8/messages"
+	"github.com/shoeper/gokrb5/v8/types"
 )
 
 // TGSREQGenerateAndExchange generates the TGS_REQ and performs a TGS exchange to retrieve a ticket to the specified SPN.

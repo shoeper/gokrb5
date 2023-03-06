@@ -6,11 +6,11 @@ import (
 	"fmt"
 
 	"github.com/jcmturner/gofork/encoding/asn1"
-	"github.com/ropnop/gokrb5/client"
-	"github.com/ropnop/gokrb5/gssapi"
-	"github.com/ropnop/gokrb5/messages"
-	"github.com/ropnop/gokrb5/service"
-	"github.com/ropnop/gokrb5/types"
+	"github.com/shoeper/gokrb5/client"
+	"github.com/shoeper/gokrb5/gssapi"
+	"github.com/shoeper/gokrb5/messages"
+	"github.com/shoeper/gokrb5/service"
+	"github.com/shoeper/gokrb5/types"
 )
 
 // https://msdn.microsoft.com/en-us/library/ms995330.aspx

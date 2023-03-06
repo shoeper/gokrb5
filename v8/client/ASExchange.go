@@ -1,14 +1,14 @@
 package client
 
 import (
-	"github.com/ropnop/gokrb5/v8/crypto"
-	"github.com/ropnop/gokrb5/v8/crypto/etype"
-	"github.com/ropnop/gokrb5/v8/iana/errorcode"
-	"github.com/ropnop/gokrb5/v8/iana/keyusage"
-	"github.com/ropnop/gokrb5/v8/iana/patype"
-	"github.com/ropnop/gokrb5/v8/krberror"
-	"github.com/ropnop/gokrb5/v8/messages"
-	"github.com/ropnop/gokrb5/v8/types"
+	"github.com/shoeper/gokrb5/v8/crypto"
+	"github.com/shoeper/gokrb5/v8/crypto/etype"
+	"github.com/shoeper/gokrb5/v8/iana/errorcode"
+	"github.com/shoeper/gokrb5/v8/iana/keyusage"
+	"github.com/shoeper/gokrb5/v8/iana/patype"
+	"github.com/shoeper/gokrb5/v8/krberror"
+	"github.com/shoeper/gokrb5/v8/messages"
+	"github.com/shoeper/gokrb5/v8/types"
 )
 
 // ASExchange performs an AS exchange for the client to retrieve a TGT.

@@ -6,13 +6,13 @@ import (
 	"log"
 	"testing"
 
-	"github.com/ropnop/gokrb5/v8/config"
-	"github.com/ropnop/gokrb5/v8/iana/etypeID"
-	"github.com/ropnop/gokrb5/v8/iana/nametype"
-	"github.com/ropnop/gokrb5/v8/keytab"
-	"github.com/ropnop/gokrb5/v8/test"
-	"github.com/ropnop/gokrb5/v8/test/testdata"
-	"github.com/ropnop/gokrb5/v8/types"
+	"github.com/shoeper/gokrb5/v8/config"
+	"github.com/shoeper/gokrb5/v8/iana/etypeID"
+	"github.com/shoeper/gokrb5/v8/iana/nametype"
+	"github.com/shoeper/gokrb5/v8/keytab"
+	"github.com/shoeper/gokrb5/v8/test"
+	"github.com/shoeper/gokrb5/v8/test/testdata"
+	"github.com/shoeper/gokrb5/v8/types"
 	"github.com/stretchr/testify/assert"
 )
 

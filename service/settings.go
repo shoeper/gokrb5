@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/ropnop/gokrb5/keytab"
-	"github.com/ropnop/gokrb5/types"
+	"github.com/shoeper/gokrb5/keytab"
+	"github.com/shoeper/gokrb5/types"
 )
 
 // Settings defines service side configuration settings.

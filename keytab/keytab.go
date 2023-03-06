@@ -11,7 +11,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ropnop/gokrb5/types"
+	"github.com/shoeper/gokrb5/types"
 )
 
 const (

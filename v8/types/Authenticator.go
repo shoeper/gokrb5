@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/jcmturner/gofork/encoding/asn1"
-	"github.com/ropnop/gokrb5/v8/asn1tools"
-	"github.com/ropnop/gokrb5/v8/iana"
-	"github.com/ropnop/gokrb5/v8/iana/asnAppTag"
+	"github.com/shoeper/gokrb5/v8/asn1tools"
+	"github.com/shoeper/gokrb5/v8/iana"
+	"github.com/shoeper/gokrb5/v8/iana/asnAppTag"
 )
 
 // Authenticator - A record containing information that can be shown to have been recently generated using the session

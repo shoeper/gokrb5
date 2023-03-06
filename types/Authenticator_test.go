@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ropnop/gokrb5/iana"
-	"github.com/ropnop/gokrb5/iana/adtype"
-	"github.com/ropnop/gokrb5/iana/nametype"
-	"github.com/ropnop/gokrb5/test/testdata"
+	"github.com/shoeper/gokrb5/iana"
+	"github.com/shoeper/gokrb5/iana/adtype"
+	"github.com/shoeper/gokrb5/iana/nametype"
+	"github.com/shoeper/gokrb5/test/testdata"
 	"github.com/stretchr/testify/assert"
 )
 

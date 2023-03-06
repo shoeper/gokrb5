@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/ropnop/gokrb5/iana/chksumtype"
-	"github.com/ropnop/gokrb5/test/testdata"
+	"github.com/shoeper/gokrb5/iana/chksumtype"
+	"github.com/shoeper/gokrb5/test/testdata"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -9,10 +9,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/ropnop/gokrb5/keytab"
-	"github.com/ropnop/gokrb5/service"
-	"github.com/ropnop/gokrb5/spnego"
-	"github.com/ropnop/gokrb5/test/testdata"
+	"github.com/shoeper/gokrb5/keytab"
+	"github.com/shoeper/gokrb5/service"
+	"github.com/shoeper/gokrb5/spnego"
+	"github.com/shoeper/gokrb5/test/testdata"
 	goidentity "gopkg.in/jcmturner/goidentity.v3"
 )
 

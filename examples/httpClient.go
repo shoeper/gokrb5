@@ -10,11 +10,11 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/ropnop/gokrb5/client"
-	"github.com/ropnop/gokrb5/config"
-	"github.com/ropnop/gokrb5/keytab"
-	"github.com/ropnop/gokrb5/spnego"
-	"github.com/ropnop/gokrb5/test/testdata"
+	"github.com/shoeper/gokrb5/client"
+	"github.com/shoeper/gokrb5/config"
+	"github.com/shoeper/gokrb5/keytab"
+	"github.com/shoeper/gokrb5/spnego"
+	"github.com/shoeper/gokrb5/test/testdata"
 )
 
 const (

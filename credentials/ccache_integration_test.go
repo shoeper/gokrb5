@@ -11,10 +11,10 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ropnop/gokrb5/iana/nametype"
-	"github.com/ropnop/gokrb5/test"
-	"github.com/ropnop/gokrb5/test/testdata"
-	"github.com/ropnop/gokrb5/types"
+	"github.com/shoeper/gokrb5/iana/nametype"
+	"github.com/shoeper/gokrb5/test"
+	"github.com/shoeper/gokrb5/test/testdata"
+	"github.com/shoeper/gokrb5/types"
 	"github.com/stretchr/testify/assert"
 )
 
